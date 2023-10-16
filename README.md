@@ -1,4 +1,3 @@
-# kmnist
 # Hiragana Optical Character Recognition Project
 
 This project utilizes machine learning to develop an optical character recognition (OCR) system for recognizing hiragana characters. A 3-hidden-layer Feedforward Neural Network is constructed and trained on the Kuzushiji-MNIST dataset. The dataset comprises 70,000 images of 28x28 grayscale hiragana characters, specifically focusing on 10 unique characters. The model achieved a precision of 93.2%, a recall of 94%, and an accuracy score of 93.3% in identifying these characters.
